@@ -9,7 +9,7 @@
 - 🚀 Currently enrolled as a common core student at 42 Istanbul.
 - 🤖 I'm passionate about robotics, embedded systems, and autonomous technologies.
 
----
+
 
 ## 🔧 Technologies I Use
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -36,7 +36,7 @@
 - 🔷 **[rover](https://github.com/Tuncayarda/rover)**  
   A mini autonomous robot project developed with ROS2 and C++. Features basic autonomous navigation and sensor integration.
 
----
+
 
 ## 📫 Get in Touch
 
